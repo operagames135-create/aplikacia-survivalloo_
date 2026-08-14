@@ -1,0 +1,7 @@
+{
+  "name": "SurvivalLoo",
+  "description": "Oficiálna sprievodná aplikácia pre Minecraft server SurvivalLoo s IP adresami, príkazmi, pravidlami a komunitou.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
